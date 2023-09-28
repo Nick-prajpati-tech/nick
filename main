@@ -1,0 +1,7 @@
+a=int(input("Enter any amount"))
+
+b= int(a / 500)
+print("500 + b")
+a + a %500
+b= int (a 200)
+print("200*",b)
